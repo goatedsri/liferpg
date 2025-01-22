@@ -1,6 +1,6 @@
 # liferpg
 
-liferpg, an rpg simulator for journaling about real life stuff, is a long envisioned project of mine which i never got to.
+liferpg, an rpg simulator for real life stuff, is a long envisioned project of mine which i never got to.
 
 through this game, i'm hoping to introduce a fun way to interact with your life and participate more actively in it.
 
