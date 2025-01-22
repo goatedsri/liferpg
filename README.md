@@ -1,4 +1,4 @@
-# liferpg - goatedsri
+# liferpg
 
 liferpg, an rpg simulator for journaling about real life stuff, is a long envisioned project of mine which i never got to.
 
