@@ -9,6 +9,3 @@ thank you for checking this out, and enjoy~!
 ᓚᘏᗢ
 
 ## usage
-
-
-# liferpg
